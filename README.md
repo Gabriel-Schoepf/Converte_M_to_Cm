@@ -2,7 +2,7 @@
 Conversor de Metros para Centímetros;
 
 Instale o Dev C++;
-plataforma  Windown;
+plataforma  Windows;
 Desenvolvido em C;
 Autor: Gabriel Schoepf;
 Data: 03-11-2021;
